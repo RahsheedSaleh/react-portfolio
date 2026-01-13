@@ -21,7 +21,7 @@ export default function About() {
           </div>
 
           <div className='col-lg-6 col-md-6 col-sm-11 col-11'>
-            <img src="src\Images\New Image.jpg" style={{width: '85%'}} alt="About Me" className='img-fluid aboutImage ms-4'/>
+            <img src="public\Images\New Image.jpg" style={{width: '85%'}} alt="About Me" className='img-fluid aboutImage ms-4'/>
           </div>
         </Row>
         

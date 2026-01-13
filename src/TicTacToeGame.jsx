@@ -10,7 +10,7 @@ export default function TicTacToeGame() {
               <div className="col-lg-6 col-md-10 col-sm-11 col-11 mx-auto pt-3">
                 
                 <div className="card border-2 black shadow-lg shadow-dark mb-5">
-                  <img src="src/TIC TAC TOE GAME Images/Main View.png" onClick={() => setIstrue(true)} className="card-img-top"  alt="" />
+                  <img src="public/TIC TAC TOE GAME Images/Main View.png" onClick={() => setIstrue(true)} className="card-img-top"  alt="" />
                   <div className="card-body">
                     <h5 className="card-title">Tic Tac Toe Game - Interactive Two Player Game</h5>
                     <p className="card-text">A classic two-player Tic Tac Toe game featuring win detection, draw handling, and a clean interactive interface.</p>
@@ -40,11 +40,11 @@ export default function TicTacToeGame() {
               <div className="carousel-inner">
     
                 <div className="carousel-item active">
-                  <img src="src/TIC TAC TOE GAME Images/Main View.png" className="d-block w-100"/>
+                  <img src="public/TIC TAC TOE GAME Images/Main View.png" className="d-block w-100"/>
                 </div>
     
                 <div className="carousel-item">
-                  <img src="src/TIC TAC TOE GAME Images/Game Playing.png" className="d-block w-100"/>
+                  <img src="public/TIC TAC TOE GAME Images/Game Playing.png" className="d-block w-100"/>
                 </div>
     
               </div>

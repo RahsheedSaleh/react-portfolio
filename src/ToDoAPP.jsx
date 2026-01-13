@@ -10,7 +10,7 @@ export default function ToDoAPP() {
             <div className="col-lg-6 col-md-10 col-sm-11 col-11 mx-auto pt-3">
               
               <div className="card border-2 black shadow-lg shadow-dark mb-5">
-                <img src="src/TO DO LIST APP Images/Main View.png" onClick={() => setIstrue(true)} className="card-img-top"  alt="" />
+                <img src="public/TO DO LIST APP Images/Main View.png" onClick={() => setIstrue(true)} className="card-img-top"  alt="" />
                 <div className="card-body">
                   <h5 className="card-title">Smart To-Do List & Daily Task Manager</h5>
                   <p className="card-text">A simple and efficient task management app that helps users plan, track, and complete daily activities with ease.</p>
@@ -41,15 +41,15 @@ export default function ToDoAPP() {
             <div className="carousel-inner">
   
               <div className="carousel-item active">
-                <img src="src/TO DO LIST APP Images/Main View.png" className="d-block w-100"/>
+                <img src="public/TO DO LIST APP Images/Main View.png" className="d-block w-100"/>
               </div>
   
               <div className="carousel-item">
-                <img src="src/TO DO LIST APP Images/Edit Modal.png" className="d-block w-100"/>
+                <img src="public/TO DO LIST APP Images/Edit Modal.png" className="d-block w-100"/>
               </div>
   
               <div className="carousel-item">
-                <img src="src/TO DO LIST APP Images/Delete Modal.png" className="d-block w-100"/>
+                <img src="public/TO DO LIST APP Images/Delete Modal.png" className="d-block w-100"/>
               </div>
   
   
