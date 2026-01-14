@@ -19,7 +19,7 @@ export default function Home() {
                 
               </div>
               <div className='col-lg-6 col-md-6 col-sm-12 col-12' >
-                <img src="/public/Images/1766341273230.jpg" alt="Portfolio" className='img12'/>
+                <img src="/images/1766341273230.jpg" alt="Portfolio" className='img12'/>
               </div>
             
             </Row>

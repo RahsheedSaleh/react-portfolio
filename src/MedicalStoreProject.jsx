@@ -11,7 +11,7 @@ export default function MedicalStoreProject() {
               <h2>My Projects</h2>
               <p>A collection of my work showcasing frontend and full stack projects.</p>
               <div className="card border-2 black shadow-lg shadow-dark mb-5">
-                <img src="public/Project Images/View Modal 1.png" onClick={() => setIstrue(true)} className="card-img-top"  alt="" />
+                <img src="/projectimages/view-modal.png" onClick={() => setIstrue(true)} className="card-img-top"  alt="" />
                 <div className="card-body">
                   <h5 className="card-title">Medical Store Management System (Full-Stack CRUD App)</h5>
                   <p className="card-text">Medical Store Management System is a full-stack web application designed to manage medical store inventory efficiently. The system allows users to add, view, update, and delete medicines using a clean and user-friendly interface without page reloads.</p>
@@ -42,23 +42,23 @@ export default function MedicalStoreProject() {
             <div className="carousel-inner">
   
               <div className="carousel-item active">
-                <img src="public/Project Images/View modal 1.png" className="d-block w-100"/>
+                <img src="/projectimages/view-modal.png" className="d-block w-100"/>
               </div>
   
               <div className="carousel-item">
-                <img src="public/Project Images/Add Modal.png" className="d-block w-100"/>
+                <img src="/projectimages/add-modal.png" className="d-block w-100"/>
               </div>
   
               <div className="carousel-item">
-                <img src="public/Project Images/Veiw Detail.png" className="d-block w-100"/>
+                <img src="/projectimages/veiw-detail.png" className="d-block w-100"/>
               </div>
   
               <div className="carousel-item">
-                <img src="public/Project Images/Update Modal.png" className="d-block w-100"/>
+                <img src="/projectimages/update-modal.png" className="d-block w-100"/>
               </div>
   
               <div clasNames="carousel-item">
-                <img src="public/Project Images/Delete Modal.png" className="d-block w-100"/>
+                <img src="/projectimages/delete-modal.png" className="d-block w-100"/>
               </div>
   
             </div>
